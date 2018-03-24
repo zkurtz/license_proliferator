@@ -1,0 +1,3 @@
+This block of text is a placeholder for legalese that
+a zealous licenser might insist upon including in the
+top of every file of a software product
