@@ -6,7 +6,11 @@ WARNING: Use with caution. This tool involves modifying files in bulk and has no
 
 TODO: This code currently pre-pends inserted license text with
 "# " code commenting syntax. Some generalization is obviously
-needed to deal with various other commenting style
+needed to deal with various other commenting styles
+
+RELATED WORK: 
+[Many partial attempts have been made](https://stackoverflow.com/questions/151677/tool-for-adding-license-headers-to-source-files) to solve this problem.
+
 
 ## Installation
 
